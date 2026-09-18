@@ -26,6 +26,6 @@ Topics Covered
 
 `let GPA = 4`
 
--[x] Create Repository
--[x] Write text in README file
--[x] Use different formats
+- [x] Create Repository
+- [x] Write text in README file
+- [x] Use different formats
